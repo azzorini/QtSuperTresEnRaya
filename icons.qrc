@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/BigCircle.png</file>
+        <file>icons/BigCross.png</file>
+        <file>icons/BigEmpty.png</file>
+        <file>icons/Circle.png</file>
+        <file>icons/Cross.png</file>
+        <file>icons/Empty.png</file>
+        <file>icons/SuperTresEnRaya.png</file>
+    </qresource>
+</RCC>
